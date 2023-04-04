@@ -1,0 +1,15 @@
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.csproj.AssemblyReference.cache
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.AssemblyInfoInputs.cache
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.AssemblyInfo.cs
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.csproj.CoreCompileInputs.cache
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\bin\Debug\net5.0\UberDelivery.Data.deps.json
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\bin\Debug\net5.0\UberDelivery.Data.dll
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\bin\Debug\net5.0\UberDelivery.Data.pdb
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\bin\Debug\net5.0\UberDelivery.Core.dll
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\bin\Debug\net5.0\UberDelivery.Core.pdb
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.csproj.CopyComplete
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.dll
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\refint\UberDelivery.Data.dll
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\UberDelivery.Data.pdb
+C:\Users\GF65\source\repos\Uber_Delivery\UberDelivery.Data\obj\Debug\net5.0\ref\UberDelivery.Data.dll

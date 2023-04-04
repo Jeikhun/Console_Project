@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UberDelivery.Data/1.0.0": {
+        "dependencies": {
+          "UberDelivery.Core": "1.0.0"
+        },
+        "runtime": {
+          "UberDelivery.Data.dll": {}
+        }
+      },
+      "UberDelivery.Core/1.0.0": {
+        "runtime": {
+          "UberDelivery.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UberDelivery.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UberDelivery.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
